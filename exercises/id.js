@@ -7,6 +7,10 @@
  */
 
 // Your code :
+function id (voiture) {
+    return voiture;
+}
+  
 
 //* Begin of tests
 const assert = require('assert')
